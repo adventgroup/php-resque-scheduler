@@ -1,4 +1,4 @@
-Fork of the chrisboulton/php-resque-scheduler: PHP Resque Scheduler
+Fork of the chrisboulton/php-resque-scheduler: PHP Resque Scheduler 
 ==========================================
 
 php-resque-scheduler is a PHP port of [resque-scheduler](http://github.com/defunkt/resque),
