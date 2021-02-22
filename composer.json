@@ -17,6 +17,6 @@
 		{ "type": "git", "url": "https://github.com/adventgroup/php-resque" }
 	],
 	"require": {
-		"adventgroup/php-resque": "1.0"
+		"adventgroup/php-resque": "1.0.x"
 	}
 }
